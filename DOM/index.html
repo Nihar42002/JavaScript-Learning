@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM Methods Demo</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 30px;
+        background: #f4f4f4;
+      }
+      .box {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .note {
+        color: #333;
+        font-size: 18px;
+        margin: 10px 0;
+      }
+      .after-box {
+        background: #fff3cd;
+        border: 2px dashed #ffb703;
+        padding: 12px;
+        margin: 12px 0;
+        font-weight: bold;
+      }
+      ul {
+        padding-left: 20px;
+      }
+      button {
+        padding: 10px 15px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <h2>Before Change</h2>
+      <h1 id="title">DOM Methods Example</h1>
+
+      <p class="note">This is a paragraph selected by class name.</p>
+      <p class="note highlight">
+        This is another paragraph selected by class name.
+      </p>
+
+      <ul id="list">
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+      </ul>
+
+      <h2>After Change</h2>
+      <p id="beforeAfterText" class="after-box">
+        Before: original HTML content. After: JavaScript changes the text and
+        styles using DOM methods.
+      </p>
+
+      <div class="after-box">
+        <p>This paragraph is added in the HTML before JavaScript runs.</p>
+        <p id="dynamicText">This text will be changed by JavaScript.</p>
+      </div>
+
+      <button id="btn">Apply DOM Methods</button>
+    </div>
+
+    <script src="Dom.js"></script>
+  </body>
+</html>
