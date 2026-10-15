@@ -1,0 +1,489 @@
+﻿{
+    "version":  "1.0.0",
+    "tag":  "v1.0-baseline",
+    "description":  "Baseline snapshot of all completed JavaScript Learning files up to 2026-10-15.",
+    "protection_policy":  "Old files are locked and must not be modified during future development. Only newly added files will be processed.",
+    "total_files":  60,
+    "files":  [
+                  {
+                      "path":  "01_Basics_and_Variables/01_variables_and_datatypes.html",
+                      "type":  "html",
+                      "size_bytes":  275,
+                      "git_blob_sha":  "db6193be3b7c86efc82b98c5ea08dcfb6f7b08ea",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "01_Basics_and_Variables/01_variables_and_datatypes.js",
+                      "type":  "js",
+                      "size_bytes":  1582,
+                      "git_blob_sha":  "4429c0937b18975a2348d66f6eb58900cf9c5db8",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "01_Basics_and_Variables/practice_set1/01_product_object.html",
+                      "type":  "html",
+                      "size_bytes":  266,
+                      "git_blob_sha":  "a1d33160add14489d7aa36fa0533b4c1ea1c3792",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "01_Basics_and_Variables/practice_set1/01_product_object.js",
+                      "type":  "js",
+                      "size_bytes":  265,
+                      "git_blob_sha":  "0bca36c559fec933d719ac0ecc0e3076ca3b708b",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "02_Operators_and_Conditionals/01_operators_and_conditionals.html",
+                      "type":  "html",
+                      "size_bytes":  278,
+                      "git_blob_sha":  "4b138f2ac3213e14d93e55500d435cd7acb2b7e5",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "02_Operators_and_Conditionals/01_operators_and_conditionals.js",
+                      "type":  "js",
+                      "size_bytes":  3949,
+                      "git_blob_sha":  "4fd983ed1e3ee8de0d254fd4918df4ed3ce6e555",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "02_Operators_and_Conditionals/practice_set2/01_multiple_of_5_check.html",
+                      "type":  "html",
+                      "size_bytes":  271,
+                      "git_blob_sha":  "0a44406635e5267236e85659270dda324345abbf",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "02_Operators_and_Conditionals/practice_set2/01_multiple_of_5_check.js",
+                      "type":  "js",
+                      "size_bytes":  326,
+                      "git_blob_sha":  "64afd296d91c0d2754ad40965ef3606a032b873e",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "02_Operators_and_Conditionals/practice_set2/02_grade_calculator.html",
+                      "type":  "html",
+                      "size_bytes":  268,
+                      "git_blob_sha":  "2ad3dd3f66eaeab1d690a56be7d35a53cf6698c0",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "02_Operators_and_Conditionals/practice_set2/02_grade_calculator.js",
+                      "type":  "js",
+                      "size_bytes":  771,
+                      "git_blob_sha":  "984ed1bccf7ae1ed7b1a86a0a8ca9d9a94d3e1de",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "03_Loops/01_loop_types.html",
+                      "type":  "html",
+                      "size_bytes":  260,
+                      "git_blob_sha":  "b43f9f851ee7c377fc10d60b49c6262668d1a1c5",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "03_Loops/01_loop_types.js",
+                      "type":  "js",
+                      "size_bytes":  1322,
+                      "git_blob_sha":  "e9ada9bb385a4d8b472a07cff3609d3e01cb7601",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "03_Loops/practice_set3/01_even_numbers_0_to_100.html",
+                      "type":  "html",
+                      "size_bytes":  271,
+                      "git_blob_sha":  "be4cbee46c4de6c588ba08c76790ac61a5650cf4",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "03_Loops/practice_set3/01_even_numbers_0_to_100.js",
+                      "type":  "js",
+                      "size_bytes":  68,
+                      "git_blob_sha":  "bb1ae186ae649d952da423f58d23f5bc784b88de",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "03_Loops/practice_set3/02_number_guessing_game.html",
+                      "type":  "html",
+                      "size_bytes":  272,
+                      "git_blob_sha":  "8f5cbd332247ce01a90f5abaa0e67ebb08e8b2d3",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "03_Loops/practice_set3/02_number_guessing_game.js",
+                      "type":  "js",
+                      "size_bytes":  391,
+                      "git_blob_sha":  "6e8ac01ffda797fb79fc645dc43350032feadd50",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "04_Strings/01_string_methods_and_templates.html",
+                      "type":  "html",
+                      "size_bytes":  278,
+                      "git_blob_sha":  "225ee51ff144c11692cb104709b21421588dfefc",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "04_Strings/01_string_methods_and_templates.js",
+                      "type":  "js",
+                      "size_bytes":  1811,
+                      "git_blob_sha":  "4d094d08411ac74cddfa0f42fdb7ef6b7387c55d",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "04_Strings/practice_set4/01_username_generator.html",
+                      "type":  "html",
+                      "size_bytes":  268,
+                      "git_blob_sha":  "45bf7fa773ee09c696f40d49d74317c512244491",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "04_Strings/practice_set4/01_username_generator.js",
+                      "type":  "js",
+                      "size_bytes":  410,
+                      "git_blob_sha":  "18ea9856d386778f213301f05dbbc4afb5dc2fa5",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/01_array_loops.html",
+                      "type":  "html",
+                      "size_bytes":  261,
+                      "git_blob_sha":  "8212dc864b0a2ba57674936b1d02615223fe3c6d",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/01_array_loops.js",
+                      "type":  "js",
+                      "size_bytes":  1700,
+                      "git_blob_sha":  "935f6402bc3aeae36e501cb9a204771ec003b758",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/02_array_methods.html",
+                      "type":  "html",
+                      "size_bytes":  263,
+                      "git_blob_sha":  "ad5c4f13052975641189ce54a740d3307d0f5b53",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/02_array_methods.js",
+                      "type":  "js",
+                      "size_bytes":  2284,
+                      "git_blob_sha":  "f8b9fb3e49455fae69f2d3dc70eaa57052c84e6d",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/practice_set5/01_average_marks_and_discount.html",
+                      "type":  "html",
+                      "size_bytes":  276,
+                      "git_blob_sha":  "5a2829f5b9abdf49836c48d2e422914119b68153",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/practice_set5/01_average_marks_and_discount.js",
+                      "type":  "js",
+                      "size_bytes":  534,
+                      "git_blob_sha":  "30162ac7e265a6cda901b7de642eb1219a8cad4d",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/practice_set5/02_company_array_operations.html",
+                      "type":  "html",
+                      "size_bytes":  274,
+                      "git_blob_sha":  "d29b242a008ba045b69cbc30c40fb2bcde16fcab",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "05_Arrays/practice_set5/02_company_array_operations.js",
+                      "type":  "js",
+                      "size_bytes":  184,
+                      "git_blob_sha":  "bd159f87ad8464cd948978d950fef0ec78b3e239",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/01_function_basics.html",
+                      "type":  "html",
+                      "size_bytes":  265,
+                      "git_blob_sha":  "0596dac829b0a93374e3e718e86babf78afa7298",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/01_function_basics.js",
+                      "type":  "js",
+                      "size_bytes":  1017,
+                      "git_blob_sha":  "eebd4000c21fa4038bdc9b38bd7e232f6e09d7ba",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/02_forEach_callback.html",
+                      "type":  "html",
+                      "size_bytes":  266,
+                      "git_blob_sha":  "3b3e2b1e25c65d41b971bc96fc8dc3a510c742ef",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/02_forEach_callback.js",
+                      "type":  "js",
+                      "size_bytes":  784,
+                      "git_blob_sha":  "9b0a6892efe62449363088deb721c9af3451291c",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/03_map_filter_reduce.html",
+                      "type":  "html",
+                      "size_bytes":  267,
+                      "git_blob_sha":  "07c2f39230c9e53320ccd6671a15a1dfd144f3e1",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/03_map_filter_reduce.js",
+                      "type":  "js",
+                      "size_bytes":  1436,
+                      "git_blob_sha":  "7ee370596c3c06bc3a8ca89e788f6c5da6b7f297",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/practice_set6/01_count_vowels.html",
+                      "type":  "html",
+                      "size_bytes":  262,
+                      "git_blob_sha":  "b0664cad744c0b8929b4d67adc6d94a0f5a4d94b",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/practice_set6/01_count_vowels.js",
+                      "type":  "js",
+                      "size_bytes":  255,
+                      "git_blob_sha":  "7cc9a2bb22f40e2d9bedd219c10f620d49e69c60",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/practice_set6/02_square_numbers_forEach.html",
+                      "type":  "html",
+                      "size_bytes":  272,
+                      "git_blob_sha":  "a2e979ced9c36ea6d26cc6304966502782940b47",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/practice_set6/02_square_numbers_forEach.js",
+                      "type":  "js",
+                      "size_bytes":  227,
+                      "git_blob_sha":  "0f1565d60e80df54d8bd867066c1f9a137061465",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/practice_set6/03_filter_marks_and_reduce.html",
+                      "type":  "html",
+                      "size_bytes":  273,
+                      "git_blob_sha":  "eeb1c3940656336e7724e259d80075b9c7d4a72f",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "06_Functions_and_Methods/practice_set6/03_filter_marks_and_reduce.js",
+                      "type":  "js",
+                      "size_bytes":  684,
+                      "git_blob_sha":  "a020ba49f1ddf0fccd7604de151ea463373a1944",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "07_DOM_Part1/01_dom_selectors.html",
+                      "type":  "html",
+                      "size_bytes":  1949,
+                      "git_blob_sha":  "d0cd63a4b4faec5440f611faa2f0d2a964e9b2fc",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "07_DOM_Part1/01_dom_selectors.js",
+                      "type":  "js",
+                      "size_bytes":  3456,
+                      "git_blob_sha":  "bfa71e223188c993bfdd3d695715306f4502f6eb",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "07_DOM_Part1/practice_set10/01_change_box_content.html",
+                      "type":  "html",
+                      "size_bytes":  464,
+                      "git_blob_sha":  "17620eaad23c6d579e4cd653c02adab6a8f1b8e6",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "07_DOM_Part1/practice_set10/01_change_box_content.js",
+                      "type":  "js",
+                      "size_bytes":  184,
+                      "git_blob_sha":  "d5867916da2ade427f4beb4a7ba3829d36d8543f",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "07_DOM_Part1/practice_set10/style.css",
+                      "type":  "css",
+                      "size_bytes":  202,
+                      "git_blob_sha":  "317d30be8f1b21bfbf71496be13d29a59afb5e54",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "07_DOM_Part1/practice_set9/01_append_heading_text.html",
+                      "type":  "html",
+                      "size_bytes":  318,
+                      "git_blob_sha":  "cbb0b260bdfbacd040d74b8bc158bd6c98371ec4",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "07_DOM_Part1/practice_set9/01_append_heading_text.js",
+                      "type":  "js",
+                      "size_bytes":  98,
+                      "git_blob_sha":  "8119c66cb1bc87e9228290338cc090f73a875f05",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "08_DOM_Part2/01_dom_attributes_and_elements.html",
+                      "type":  "html",
+                      "size_bytes":  735,
+                      "git_blob_sha":  "50e09ce166208842ea2acc7292de8d1049a7a3e8",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "08_DOM_Part2/01_dom_attributes_and_elements.js",
+                      "type":  "js",
+                      "size_bytes":  1478,
+                      "git_blob_sha":  "b37ae09d9e45948ec6e62b5e90bc7b5b1dd5d9c7",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "08_DOM_Part2/practice_set11/01_create_button_prepend.html",
+                      "type":  "html",
+                      "size_bytes":  271,
+                      "git_blob_sha":  "74bfb9a12fed9365e40237882f7b4e286683bc34",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "08_DOM_Part2/practice_set11/01_create_button_prepend.js",
+                      "type":  "js",
+                      "size_bytes":  241,
+                      "git_blob_sha":  "c1f1197a8ced53e07ff065900ea7270324e190bb",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "08_DOM_Part2/practice_set12/01_classlist_styling.html",
+                      "type":  "html",
+                      "size_bytes":  350,
+                      "git_blob_sha":  "d2355c5dbdd80600c7756d7a232615f294aa99eb",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "08_DOM_Part2/practice_set12/01_classlist_styling.js",
+                      "type":  "js",
+                      "size_bytes":  143,
+                      "git_blob_sha":  "8a6b584c2aa0a01ea488e121548903361d855a2f",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "08_DOM_Part2/practice_set12/style.css",
+                      "type":  "css",
+                      "size_bytes":  75,
+                      "git_blob_sha":  "60de324627e83ad18b2f5c4b0287b604132c846b",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "09_Events_Handling/01_mouse_keyboard_form_events.html",
+                      "type":  "html",
+                      "size_bytes":  1288,
+                      "git_blob_sha":  "1d86cbae32e80487c1a91164a1958bffd2b9ce6d",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "09_Events_Handling/01_mouse_keyboard_form_events.js",
+                      "type":  "js",
+                      "size_bytes":  3135,
+                      "git_blob_sha":  "0e54a77b759398dd63a77801426e835f015062aa",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "10_Event_Objects/01_event_object_and_listeners.html",
+                      "type":  "html",
+                      "size_bytes":  1172,
+                      "git_blob_sha":  "f9a90afe634762028308b1e22341a2abc5927565",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "10_Event_Objects/01_event_object_and_listeners.js",
+                      "type":  "js",
+                      "size_bytes":  2513,
+                      "git_blob_sha":  "f4041085fbf57d981acddfcb8f19ecd170e1c3e5",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "10_Event_Objects/practice_set13_dark_mode_toggle/01_dark_mode_toggle.html",
+                      "type":  "html",
+                      "size_bytes":  318,
+                      "git_blob_sha":  "508b3017a7b6a3924793cd94c466c819a5270fec",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  },
+                  {
+                      "path":  "10_Event_Objects/practice_set13_dark_mode_toggle/01_dark_mode_toggle.js",
+                      "type":  "js",
+                      "size_bytes":  413,
+                      "git_blob_sha":  "1ea83308540fcce9ee775f44e2f7cf2e96c0f8d7",
+                      "baseline_locked":  true,
+                      "last_updated":  "2026-10-15"
+                  }
+              ]
+}
