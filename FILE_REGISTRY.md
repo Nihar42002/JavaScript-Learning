@@ -9,8 +9,8 @@
 
 ## 🛡️ Policy for Future Development
 
-1. **Immutable Baseline**:
-   All 60 files listed in this registry belong to the foundational JavaScript curriculum (Chapters 01 to 10). They are fully tested, self-contained, and **must not be modified, overwritten, or rearranged** during future development.
+1. **Immutable Baseline & Explicit Consent Rule**:
+   All 60 files listed in this registry belong to the foundational JavaScript curriculum (Chapters 01 to 10). They are fully tested, self-contained, and **MUST NOT be touched, edited, or modified UNLESS the user explicitly instructs to update a specific old file**. Without explicit user instruction, old files remain strictly read-only.
    
 2. **Forward-Only Development**:
    - Any new topics, lessons, exercises, or projects will be created in **new chapters or new files** (e.g., `11_Classes_and_Objects/`, `12_Async_Await_Promises/`, `13_Fetch_API/`, `14_Projects/`).

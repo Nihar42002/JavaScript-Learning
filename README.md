@@ -4,7 +4,8 @@ A structured, well-organized curriculum and code reference for JavaScript fundam
 
 ---
 
-> 🔒 **Baseline Status**: Files up through Chapter 10 are recorded and frozen under baseline `v1.0-baseline` (see [FILE_REGISTRY.md](file:///C:/Users/parwa/OneDrive/Documents/JavaScript%20Learning/FILE_REGISTRY.md) and [`project_manifest.json`](file:///C:/Users/parwa/OneDrive/Documents/JavaScript%20Learning/project_manifest.json)). Any future modifications or additions will apply only to new files without altering this baseline.
+> 🔒 **Baseline Status**: Files up through Chapter 10 are recorded and frozen under baseline `v1.0-baseline` (see [FILE_REGISTRY.md](file:///C:/Users/parwa/OneDrive/Documents/JavaScript%20Learning/FILE_REGISTRY.md) and [`project_manifest.json`](file:///C:/Users/parwa/OneDrive/Documents/JavaScript%20Learning/project_manifest.json)).  
+> **Rule**: Old baseline files will **only be updated if you explicitly request an old file to be changed**. Otherwise, all updates and new work will apply strictly to new files.
 
 ---
 
