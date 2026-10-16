@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <main>
+
+        <!-- This part conatin the main content of the Tic Tac Toe game -->
+        <h1>Tic Tac Toe</h1>
+        <h2 id="winnerMessage"></h2>
+        <div class="container">
+            <div class="board">
+                <!-- This is the main board of the game where the players will play the game
+                Each button represents a cell in the Tic Tac Toe grid and has a data attribute to identify its index -->
+
+               <button class="cell" data-cell-index="1"></button>
+               <button class="cell" data-cell-index="2"></button>
+               <button class="cell" data-cell-index="3"></button> 
+               <button class="cell" data-cell-index="4"></button>
+               <button class="cell" data-cell-index="5"></button>
+               <button class="cell" data-cell-index="6"></button>
+               <button class="cell" data-cell-index="7"></button>
+               <button class="cell" data-cell-index="8"></button>
+               <button class="cell" data-cell-index="9"></button>
+
+            </div>
+        </div>
+
+        <!-- This part contains the reset button to reset the game -->
+        <button id="resetButton">Reset Game</button>
+    </main>
+
+    <script src="main.js"></script>
+</body>
+</html>
