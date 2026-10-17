@@ -60,6 +60,7 @@ winnerMessage.style.display = "flex";
 function resetGame() {
     boxes.forEach(box => {
         box.textContent = "";
+        box.disabled = false;
     });
 
     winnerMessage.textContent = "";
