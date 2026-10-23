@@ -35,27 +35,25 @@ boxes.forEach((cell) => {
 
 });
 
+
 checkWinner = () => {
     for (let i = 0; i < winningConditions.length; i++) {
         const [a, b, c] = winningConditions[i];
-        if (boxes[a].textContent && boxes[a].textContent === boxes[b].textContent && boxes[a].textContent === boxes[c].textContent) 
-            {
-    if (
-        boxes[a].textContent &&
-        boxes[a].textContent === boxes[b].textContent &&
-        boxes[a].textContent === boxes[c].textContent
-        ) 
 
-        {
-        winnerMessage.textContent = `${boxes[a].textContent} wins! 🏆`;
-winnerMessage.style.display = "flex";
+        if (
+            boxes[a].textContent &&
+            boxes[a].textContent === boxes[b].textContent &&
+            boxes[a].textContent === boxes[c].textContent
+        ) {
+            winnerMessage.textContent = `${boxes[a].textContent} wins! 🏆`;
+            winnerMessage.style.display = "flex";
 
             resetButton.disabled = false;
             return;
         }
-        }
     }
 };
+
 
 function resetGame() {
     boxes.forEach(box => {
