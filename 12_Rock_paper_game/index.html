@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StonePaperScissors</title>
+    <link rel="StyleSheet" href="main.css">
+</head>
+<body>
+    <!-- It will be a heading section for the website. -->
+    <h1>Stone Paper Scissors</h1>
+
+    <!-- This will be a different choice section of the game. -->
+    <div class="Allchoice">
+        <div class="choices" id="rock"><img src="rock.png" alt=""></div>
+        <div class="choices" id="paper"><img src="paper.png" alt=""></div>
+        <div class="choices" id="scissors"><img src="scissors.png" alt=""></div>
+    </div>
+
+    <!-- This section is the score counting part during the time of the game. -->
+    <div class="score_section">
+        <!-- This will be the score counting part for the user -->
+        <div class="score">
+            <p id="user_score">0</p>
+            <p>User</p>
+        </div>
+
+        <!-- This will be the score counting part for the computer -->
+        <div class="score">
+            <p id="comp_score">0</p>
+            <p>comp</p>
+        </div>
+    </div>
+
+    <!-- This is the messgae containing part of the game -->
+    <div class="message_container">
+        <p id="msg">Start The Game</p>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
